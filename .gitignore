@@ -1,0 +1,6 @@
+best_models/
+figs/
+images/
+saved_models/
+hyperparameter_search.py
+README.md
